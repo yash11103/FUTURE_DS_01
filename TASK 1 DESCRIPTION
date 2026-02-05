@@ -1,0 +1,71 @@
+📊 Superstore Sales Analysis (Business Performance Dashboard)
+
+📌 Project Overview
+This project focuses on analyzing superstore sales data to understand business performance, product demand, and revenue trends. 
+The objective is to simulate how a data analyst helps a company turn raw sales data into actionable business insights.
+The analysis highlights revenue patterns, top-performing products, and high-value regions to support data-driven decision-making.
+
+🎯 Business Problem
+Superstore and Retail Businesses collect large volumes of sales data but often struggle to answer key questions such as:
+1.Which products generate the most revenue?
+2.How do sales change over time?
+3.Which product categories perform best?
+4.Which regions contribute most to revenue?
+This project provides clear answers through structured analysis and visualization.
+
+🛠 Tools & Technologies
+Power BI Desktop/
+Excel 
+Online Superstore Dataset
+Data analysis techniques including aggregation, trend analysis, and KPI tracking
+
+ Dataset Used
+Superstore Dataset
+Dataset containing Sales & Profits of a Superstore
+Dataset Link:
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
+🧹 Data Preparation
+To ensure accurate analysis, the dataset was cleaned and structured by:
+Removing missing or invalid records
+Converting date columns to proper format
+Creating a Average Order Value(AOV) column (Sales/Quantity)
+Standardizing product and category names
+
+📊 Analysis Performed
+🔹 Revenue Trend Analysis
+Monthly and yearly revenue patterns
+Identification of seasonal sales trends
+🔹 Product Performance
+Top products by revenue
+Contribution of high-performing products
+🔹 Category Analysis
+Revenue comparison across product categories
+Identification of key business segments
+🔹 Regional Analysis
+Sales distribution by country/region
+High-performing vs underperforming markets
+🔹 Key Performance Indicators (KPIs)
+Total Sales
+Total Profits
+Average Order Value
+Total Quantity
+
+💡 Key Insights
+A small group of products contributes significantly to overall revenue.
+Certain categories consistently drive higher sales, acting as primary revenue drivers.
+Sales follow time-based trends, suggesting seasonal demand patterns.
+Some regions generate much higher revenue than others, indicating strong market opportunities.
+
+📌 Business Recommendations
+Based on the analysis:
+Focus inventory and marketing on top-performing products
+Prepare promotions before peak sales periods
+Invest more in high-performing regions
+Reassess strategy for low-performing categories
+
+🚀 Project Outcome
+This project demonstrates how raw  superstore retail sales data can be transformed into a decision-making tool using data analytics and visualization. 
+It reflects real-world work done by data analysts in retail and superstore hubs and industries collectively.
+
+Screenshot
