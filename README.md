@@ -1,10 +1,12 @@
 # FUTURE_DS_01
 📊 Data Science & Analytics Internship | Future Interns
 
-I completed a structured, industry-aligned internship at Future Interns, where I focused on converting complex datasets into actionable business intelligence. My work centered on the intersection of data engineering, exploratory analysis, and strategic storytelling.
+I completed a structured, industry-aligned internship at Future Interns, where I focused on converting complex datasets into actionable business intelligence. 
+My work centered on the intersection of data engineering, exploratory analysis, and strategic storytelling.
 
-🛠️ Technical Ecosystem
-BI & Tools: Power BI (DAX, Data Modeling), Microsoft Excel (Advanced functions)
+🛠️ Technical Ecosystem BI & Tools:
+Power BI (DAX, Data Modeling),
+Microsoft Excel (Advanced functions)
 
 🔍 Core Project Focus
 During this program, I built analytical pipelines to solve high-impact business problems:
