@@ -5,7 +5,9 @@ I completed a structured, industry-aligned internship at Future Interns, where I
 My work centered on the intersection of data engineering, exploratory analysis, and strategic storytelling.
 
 🛠️ Technical Ecosystem BI & Tools:
+
 Power BI (DAX, Data Modeling),
+
 Microsoft Excel (Advanced functions)
 
 🔍 Core Project Focus
